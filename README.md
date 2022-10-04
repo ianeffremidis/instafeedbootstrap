@@ -12,6 +12,8 @@ This is my version of TXT please.
 
 Edit 2, with pull
 
+Edit 3, with new branch
+
 Create an `index.html` file with the [basic HTML structure](http://content.breatheco.de/lesson/what-is-html-learn-html#page-structure) and see it live by running a web-server using the following command:
 
 ```sh
